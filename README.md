@@ -11,14 +11,12 @@ Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 ## Carpeta "diagnostico"
 [Ver carpeta diagnostico](./diagnostico)
 
-## Carpeta "galería"
 [Ver carpeta galeria](./diagnostico/galeria)
 
-## Carpeta "lista_ordenada"
 [Ver carpeta lista_ordenada](./diagnostico/lista_ordenada)
 
-## Carpeta "navbar"
 [Ver carpeta navbar](./diagnostico/navbar)
 
-## Carpeta "estilo_campo_card"
-[Ver carpeta navbar](./diagnostico/estilo_campo_card)
+[Ver carpeta estilo_campo_card](./diagnostico/estilo_campo_card)
+
+[Ver carpeta javascript](./diagnostico/javascript)
