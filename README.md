@@ -20,3 +20,5 @@ Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 [Ver carpeta estilo_campo_card](./diagnostico/estilo_campo_card)
 
 [Ver carpeta javascript](./diagnostico/javascript)
+
+[Ver carpeta sql](./diagnostico/sql)
