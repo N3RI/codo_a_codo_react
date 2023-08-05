@@ -10,3 +10,6 @@ Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 
 ## Carpeta "diagnostico"
 [Ver carpeta diagnostico](./diagnostico)
+
+## Carpeta "diagnostico"
+[Ver carpeta galeria](./diagnostico/galeria)
