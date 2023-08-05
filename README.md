@@ -6,7 +6,7 @@
 Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 
 ## Carpeta "id_card"
-[Ver carpeta id_card](./id_card)
+[id_card](./id_card)
 
 ## Carpeta "diagnostico"
 [diagnostico](./diagnostico/) |
