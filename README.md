@@ -16,3 +16,6 @@ Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 
 ## Carpeta "lista_ordenada"
 [Ver carpeta lista_ordenada](./diagnostico/lista_ordenada)
+
+## Carpeta "navbar"
+[Ver carpeta navbar](./diagnostico/navbar)
