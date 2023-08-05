@@ -9,9 +9,10 @@ Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 [Ver carpeta id_card](./id_card)
 
 ## Carpeta "diagnostico"
-[galeria](./diagnostico/galeria)
-[lista_ordenada](./diagnostico/lista_ordenada)
-[navbar](./diagnostico/navbar)
-[estilo_campo_card](./diagnostico/estilo_campo_card)
-[javascript](./diagnostico/javascript)
-[sql](./diagnostico/sql)
+[diagnostico](./diagnostico/) |
+[galeria](./diagnostico/galeria) |
+[lista_ordenada](./diagnostico/lista_ordenada) |
+[navbar](./diagnostico/navbar) |
+[estilo_campo_card](./diagnostico/estilo_campo_card) |
+[javascript](./diagnostico/javascript) |
+[sql](./diagnostico/sql) |
