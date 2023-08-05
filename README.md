@@ -19,3 +19,6 @@ Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 
 ## Carpeta "navbar"
 [Ver carpeta navbar](./diagnostico/navbar)
+
+## Carpeta "estilo_campo_card"
+[Ver carpeta navbar](./diagnostico/estilo_campo_card)

@@ -1,0 +1,22 @@
+@font-face {
+	/* tomados de una captura de pantalla analizada en whatfontis.com */
+  font-family: "Gliker Regular";
+  src: url("font/Gliker-Regular.woff") format("woff");
+}
+
+.estilocampo {
+	/* tomados de la imagen del diagnóstico con colorpicker */
+	background-color: #d6d3c0;
+	border: #483220 solid 3px;
+	border-radius: 15px;
+	font-family: 'Gliker Regular', sans-serif;	
+}
+a {
+    color: #745f3c;
+    text-decoration: none;
+}
+p {
+	font-family:'Trebuchet MS', sans-serif;	
+	font-weight: lighter;
+	font-size: medium;
+}
