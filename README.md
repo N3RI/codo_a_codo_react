@@ -11,5 +11,8 @@ Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 ## Carpeta "diagnostico"
 [Ver carpeta diagnostico](./diagnostico)
 
-## Carpeta "diagnostico"
+## Carpeta "galería"
 [Ver carpeta galeria](./diagnostico/galeria)
+
+## Carpeta "lista_ordenada"
+[Ver carpeta lista_ordenada](./diagnostico/lista_ordenada)
