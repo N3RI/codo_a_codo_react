@@ -9,16 +9,9 @@ Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 [Ver carpeta id_card](./id_card)
 
 ## Carpeta "diagnostico"
-[Ver carpeta diagnostico](./diagnostico)
-
-[Ver carpeta galeria](./diagnostico/galeria)
-
-[Ver carpeta lista_ordenada](./diagnostico/lista_ordenada)
-
-[Ver carpeta navbar](./diagnostico/navbar)
-
-[Ver carpeta estilo_campo_card](./diagnostico/estilo_campo_card)
-
-[Ver carpeta javascript](./diagnostico/javascript)
-
-[Ver carpeta sql](./diagnostico/sql)
+[galeria](./diagnostico/galeria)
+[lista_ordenada](./diagnostico/lista_ordenada)
+[navbar](./diagnostico/navbar)
+[estilo_campo_card](./diagnostico/estilo_campo_card)
+[javascript](./diagnostico/javascript)
+[sql](./diagnostico/sql)
