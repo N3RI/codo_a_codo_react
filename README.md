@@ -9,4 +9,4 @@ Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 [Ver carpeta id_card](./id_card)
 
 ## Carpeta "diagnostico"
-[Ver carpeta id_card](./diagnostico)
+[Ver carpeta diagnostico](./diagnostico)
