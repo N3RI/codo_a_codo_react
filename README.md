@@ -6,10 +6,10 @@
 Bienvenido a mi proyecto. Aquí encontrarás información interesante sobre él.
 
 ## Carpeta "id_card"
-[id_card](./id_card)
+[Ver id_card](./id_card)
 
 ## Carpeta "diagnostico"
-[diagnostico](./diagnostico/) |
+[Ver diagnostico](./diagnostico/) |
 [galeria](./diagnostico/galeria) |
 [lista_ordenada](./diagnostico/lista_ordenada) |
 [navbar](./diagnostico/navbar) |
