@@ -6,6 +6,8 @@
 	--color-cuarto: #866c50;
 	--gris-claro: #5d5959;
 	--gris-oscuro: #2f2d2d;
+	--gradiente1: #686363;
+	--gradiente2: #2d2b2b;
 }
 
 
@@ -33,7 +35,15 @@
 	border-radius: 0;
   padding: 5px;
 }
+#section10 {
+	background-color: var(--color-secundario);
+	color: var(--color-terciario);
+	background: linear-gradient(to top right, var(--gradiente1), var(--gradiente2));
+}
 
+.bg-secundario{
+	background-color: var(--color-secundario);
+}
 
 .transparent-navbar {
 	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
