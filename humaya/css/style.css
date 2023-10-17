@@ -3,9 +3,11 @@
 	--color-primario: #d5ac8c;
 	--color-secundario: #bca177;
 	--color-terciario: #63421e;
+	--color-cuarto: #866c50;
 	--gris-claro: #5d5959;
 	--gris-oscuro: #2f2d2d;
 }
+
 
 #section1 {
 	background-image: url('../img/fondo_dulce.jpg');
@@ -20,6 +22,18 @@
 	background-color: var(--color-secundario);
 	color: var(--color-terciario);
 }
+#section9 {
+	background-color: white;
+	color: var(--color-terciario);
+}
+#section9 input, #section9 textarea {
+  background-color:  var(--color-cuarto);
+	color: var(--color-primario);
+  border: none;
+	border-radius: 0;
+  padding: 5px;
+}
+
 
 .transparent-navbar {
 	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
