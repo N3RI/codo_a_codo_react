@@ -92,6 +92,13 @@
 	color: var(--color-terciario);
 	border: 3px solid var(--color-terciario);
 }
-.gray-section {
-	background-color: #333;
+.bg-gris {
+	background-image: linear-gradient(to bottom, #1c1a1a, #312f2e);
+}
+.icono_social {
+	width: 65px;
+}
+.bg-brown {
+	background-color: var(--color-secundario);
+	color: var(--color-terciario);
 }
