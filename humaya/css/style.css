@@ -102,3 +102,6 @@
 	background-color: var(--color-secundario);
 	color: var(--color-terciario);
 }
+.bg-negro {
+	background-image: linear-gradient(to right, #1c1a1a, #100f0f);
+}
